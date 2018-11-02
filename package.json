@@ -1,0 +1,22 @@
+{
+  "name": "csv2ldif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dk253/csv2ldif.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dk253/csv2ldif/issues"
+  },
+  "homepage": "https://github.com/dk253/csv2ldif#readme",
+  "dependencies": {
+    "csv": "^4.0.0"
+  }
+}
