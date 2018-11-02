@@ -74,5 +74,6 @@ typings/
 # Serverless directories
 .serverless
 
+.idea/
 *.csv
 *.ldif
